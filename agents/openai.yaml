@@ -1,0 +1,4 @@
+interface:
+  display_name: "IntentMap"
+  short_description: "Turn vague software ideas into confirmed tasks"
+  default_prompt: "Use $intentmap to turn my software idea into a clear, confirmed next task."
