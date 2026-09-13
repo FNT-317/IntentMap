@@ -37,6 +37,14 @@ Example: “So the main problem is not that you cannot record spending, but that
 
 Previously confirmed information may be revised by the user. Update it openly rather than protecting an old conclusion.
 
+A late material fact or constraint reopens only the confirmations it affects. Explain what changed, keep unrelated confirmed decisions, and reconfirm the revised understanding, scope, plan, or task before relying on it.
+
+## Requests to skip confirmation
+
+A general instruction such as “just do it” or “decide everything” is not confirmation of a summary, scope, plan, or execution packet the user has not seen. Respect the user's wish for speed by shortening explanations and asking only essential questions, then present the smallest meaningful checkpoint for explicit acceptance.
+
+Do not use this rule to create redundant approvals. For a tiny, already-clear request, one compact artifact may satisfy adjacent task and execution checkpoints when it shows the exact change, boundaries, and completion condition and no new decision is introduced between them. Ask once about that exact content. Any material revision requires a new confirmation.
+
 ## Keep information states separate
 
 Use the states defined in [requirement-discovery.md](requirement-discovery.md): stated, confirmed, suggested, and uncertain. When summarizing:

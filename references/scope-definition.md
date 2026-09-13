@@ -118,7 +118,7 @@ Clearly separate **User decided**, **IntentMap suggested**, and **Still undecide
 
 Ask: “Does this feel like the right first version, or would you like to add, remove, or change anything?”
 
-Wait for explicit confirmation. Silence is not agreement. A correction reopens the affected scope decision; update the summary and ask again. After explicit confirmation, stop. Task decomposition belongs to a later module.
+Wait for explicit confirmation. Silence is not agreement. A correction reopens the affected scope decision; update the summary and ask again. Only after explicit confirmation may project decomposition begin.
 
 ## Small existing-project changes
 
